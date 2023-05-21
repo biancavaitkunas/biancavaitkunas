@@ -3,5 +3,6 @@
 <div>
   <a href="https://beacons.ai/biancavaitkunas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancavaitkunas&show_icons=true&theme=dracula&include_all_commits=true&count">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/?username=biancavaitkunas&layout=compactlangs_count=16&theme=dracula"/>
 <div>
 
